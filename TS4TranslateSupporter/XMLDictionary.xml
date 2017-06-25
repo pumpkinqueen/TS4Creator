@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionary A="0x02"
+            B="0x00">
+  <Entry A="hello"
+         B="你好"
+         package="*.package"/>
+  <Entry A="hello"
+         B="你好"
+         package="a.package"/>
+  <Entry A="hello"
+         B="纳尼"
+         package="a.package|220557DA-80000000-00017487E0A655F9-B992BB04"/>
+</Dictionary>
